@@ -13,5 +13,6 @@ created_at: "2025-5-30"
 
 
 ### day 2: 31 may, 2025:
-- done with most of the gokart!
+- done with ~most~ all of the gokart!
 ![image](https://github.com/user-attachments/assets/be838914-edb7-4eaa-ade6-e936a6b1f9f5)
+![image](https://github.com/user-attachments/assets/1d949fb3-3a6f-483b-829c-a822af19efad)
