@@ -1,6 +1,8 @@
 # gokart
 
 an electric gokart made entirely from scratch!
+![image](https://github.com/user-attachments/assets/969e8203-2cce-455d-90fc-1402f52e722b)
+
 
 ## BOM (bill of materials) -
 - [bom](https://docs.google.com/spreadsheets/d/1LPSlbtKpX_TeVwNVUrJRe5h6A8NwFC940OG_mSA_TPQ/edit?usp=sharing)
