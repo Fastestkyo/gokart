@@ -9,3 +9,7 @@ an electric gokart made entirely from scratch!
 
 ## CAD (3d model of the gokart) - 
 - [cad](https://a360.co/43lIhdm)
+
+
+## GUIDE (tutorial on how to make the gokart) -
+- [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
