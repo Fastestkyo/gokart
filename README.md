@@ -2,6 +2,7 @@
 
 an electric gokart made entirely from scratch!
 ![image](https://github.com/user-attachments/assets/ea663070-afdc-41e5-a5f1-e500745eb8b7)
+![image](https://github.com/user-attachments/assets/12f13d8a-205f-41f1-809d-345ae465c790)
 in the cad i have put the max number of 3d models i could find. 
 
 
