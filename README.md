@@ -1,5 +1,9 @@
 # gokart
 
+## GUIDE (tutorial on how to make the gokart) -
+- [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
+
+
 ![image](https://github.com/user-attachments/assets/9be57707-748e-4558-b8be-06dab77fb8f7)
 
 an electric gokart made entirely from scratch!
@@ -48,5 +52,4 @@ the rear axle is simple, i will take a steel rod and then weld the weldable hub 
 ![image](https://github.com/user-attachments/assets/7ae0b8c9-1c10-4d2e-8531-664b1dd2a165)
 
 
-## GUIDE (tutorial on how to make the gokart) -
-- [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
+
