@@ -4,7 +4,7 @@
 
 an electric gokart made entirely from scratch!
 
-frame is made from 1" steel pipe. 
+frame is made from 1" steel pipe. you will need ~6m of 1"pipe. MORE DETAILS IN GUIDE!
 ![image](https://github.com/user-attachments/assets/cdd2d978-b8b7-432c-a208-fdc85f8fef1f)
 
 
