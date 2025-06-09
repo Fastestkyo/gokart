@@ -4,6 +4,9 @@
 
 an electric gokart made entirely from scratch!
 
+frame is made from 1" steel pipe. 
+![image](https://github.com/user-attachments/assets/cdd2d978-b8b7-432c-a208-fdc85f8fef1f)
+
 
 ![image](https://github.com/user-attachments/assets/ea663070-afdc-41e5-a5f1-e500745eb8b7)
 ![image](https://github.com/user-attachments/assets/12f13d8a-205f-41f1-809d-345ae465c790)
