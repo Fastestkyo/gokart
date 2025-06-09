@@ -42,6 +42,7 @@ the rear axle is simple, i will take a steel rod and then weld the weldable hub 
 
 ## CAD (3d model of the gokart) - 
 - [cad](https://a360.co/43lIhdm)
+
 ![image](https://github.com/user-attachments/assets/ab7aebe1-25c1-41ac-a766-6afc5724378b)
 ![image](https://github.com/user-attachments/assets/2e172096-387b-4491-b798-bc400338af28)
 ![image](https://github.com/user-attachments/assets/7ae0b8c9-1c10-4d2e-8531-664b1dd2a165)
