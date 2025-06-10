@@ -2,7 +2,7 @@
 
 ## GUIDE (tutorial on how to make the gokart) -
 - [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
-
+- most details in the guide!
 
 ![image](https://github.com/user-attachments/assets/9be57707-748e-4558-b8be-06dab77fb8f7)
 
