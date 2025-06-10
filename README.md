@@ -1,30 +1,36 @@
 # gokart
 
-## GUIDE (tutorial on how to make the gokart) -
-- [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
-- most details in the guide!
+![image](https://github.com/user-attachments/assets/28825649-af80-4aaa-a721-d62e14c98028)
 
-![image](https://github.com/user-attachments/assets/9be57707-748e-4558-b8be-06dab77fb8f7)
+an electric gokart made entirely from scratch! this is an electric gokart which is 1.2m long and 500mm wide. it is kinda inspired by ninebot gokart pro. it will run on 48v and 1000w motor. this will take abt 376$. 
 
-an electric gokart made entirely from scratch!
+---
 
-frame is made from 1" steel pipe. you will need ~6m of 1"pipe. MORE DETAILS IN GUIDE!
+frame is made from 1" steel pipe. you will need ~6m of 1"pipe. for this im going to be using a mild steel pipe of 1" with the thickness of 2mm. i will be arc welding this. 
+
 ![image](https://github.com/user-attachments/assets/cdd2d978-b8b7-432c-a208-fdc85f8fef1f)
 
+---
 
-![image](https://github.com/user-attachments/assets/ea663070-afdc-41e5-a5f1-e500745eb8b7)
-![image](https://github.com/user-attachments/assets/12f13d8a-205f-41f1-809d-345ae465c790)
 
-in the cad i have put the max number of 3d models i could find. 
-this is a basic electric gokart which runs on a lifepo4 battery. it has a brushed motor. 
-
-the rear axle is simple, i will take a steel rod and then weld the weldable hub sprocket thing to the rod. i will also weld the brake disc with some weldable hub thing too. the flange for the wheels will be welded (everything welded!). the steering system is basic its kinda like this https://www.diygokarts.com/kart-plans/steering-plan-assembly.html . 
+the rear axle is simple, i will take a steel rod and then weld the weldable hub sprocket thing to the rod. i will also weld the brake disc with some weldable hub thing too. the flange for the wheels will be welded (everything welded!). the steering system is basic its kinda like this https://www.diygokarts.com/kart-plans/steering-plan-assembly.html .
 
 ![image](https://github.com/user-attachments/assets/11743bb5-2191-4ad1-93b8-42f2f4f824e6)
 ![image](https://github.com/user-attachments/assets/16e6af4b-e705-4d80-ae5c-9ad606fe9a18)
+![image](https://github.com/user-attachments/assets/84a643fa-c8d4-47ab-bbd7-7d1176af8833)
+![image](https://github.com/user-attachments/assets/18683f52-61df-490d-9924-3717ba691392)
+![image](https://github.com/user-attachments/assets/3f1f1b0b-8488-48ed-bd54-7fccdc79f312)
+![image](https://github.com/user-attachments/assets/fd5b127b-92c1-4bd8-b644-d7c966064f4c)
+![image](https://github.com/user-attachments/assets/5809f60c-cf20-41a6-b2fc-80d0e6eb3fd1)
+![image](https://github.com/user-attachments/assets/6d3a9daf-451a-42d3-b08d-11827b3ce80a)
+
+---
 
 i will be using a 48v 12ah lifepo4 battery along with a brushed dc motor 1000w.
 the battery will last around 30 mins and drive for 25 kms
+
+![image](https://github.com/user-attachments/assets/12f13d8a-205f-41f1-809d-345ae465c790)
+
 
 ## BOM (bill of materials) -
 - [bom](https://docs.google.com/spreadsheets/d/1LPSlbtKpX_TeVwNVUrJRe5h6A8NwFC940OG_mSA_TPQ/edit?usp=sharing)
@@ -45,6 +51,9 @@ the battery will last around 30 mins and drive for 25 kms
 | steel rod                                 | 3000        | https://www.etsy.com/in-en/listing/1408721002/1-diameter-steel-rod-round-solid-rod?variation0=3277450657                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 600mm                                                                                      |
 | bms                                       | 1600        | https://quartzcomponents.com/products/daly-lifepo4-16s-48v-40a-waterproof-battery-management-system-bms-protection-board?variant=43654845530346&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic?utm_source=google&utm_medium=FreeListings&gad_source=1&gad_campaignid=20396578075&gbraid=0AAAAACPPFdNyKfm-9TbiMoAIKq3nCmlah&gclid=Cj0KCQjw0erBBhDTARIsAKO8iqQiF390o79MtME_RitSpqAb8EHut8btuFoHuICKs47q90ljyQOV1aEaAom1EALw_wcB | 1                                                                                          |
 | fuse                                      | 400         | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1                                                                                          |
+## GUIDE (tutorial on how to make the gokart) -
+- [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
+- most details in the guide!
 
 
 ## CAD (3d model of the gokart) - 
