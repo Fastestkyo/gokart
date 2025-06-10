@@ -23,6 +23,9 @@ the rear axle is simple, i will take a steel rod and then weld the weldable hub 
 ![image](https://github.com/user-attachments/assets/11743bb5-2191-4ad1-93b8-42f2f4f824e6)
 ![image](https://github.com/user-attachments/assets/16e6af4b-e705-4d80-ae5c-9ad606fe9a18)
 
+i will be using a 48v 12ah lifepo4 battery along with a brushed dc motor 1000w.
+the battery will last around 30 mins and drive for 25 kms
+
 ## BOM (bill of materials) -
 - [bom](https://docs.google.com/spreadsheets/d/1LPSlbtKpX_TeVwNVUrJRe5h6A8NwFC940OG_mSA_TPQ/edit?usp=sharing)
 
