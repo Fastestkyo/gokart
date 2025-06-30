@@ -65,5 +65,7 @@ i will be using a 48v 12ah lifepo4 battery along with a brushed dc motor 1000w. 
 ![image](https://github.com/user-attachments/assets/2e172096-387b-4491-b798-bc400338af28)
 ![image](https://github.com/user-attachments/assets/7ae0b8c9-1c10-4d2e-8531-664b1dd2a165)
 
+i have prior welding expirience:
+![image](https://github.com/user-attachments/assets/650b3076-6e30-460c-911f-2da147b555b0)
 
 
