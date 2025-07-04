@@ -34,6 +34,9 @@ i will be using a 48v 12ah lifepo4 battery along with a brushless dc motor 1000w
 
 ---
 
+## SEAT
+-using a cheap seat and bolting to the frame.
+
 ## GUIDE (tutorial on how to make the gokart) -
 - [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
 - most details in the guide!
