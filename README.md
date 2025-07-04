@@ -32,6 +32,25 @@ i will be using a 48v 12ah lifepo4 battery along with a brushed dc motor 1000w. 
 ![image](https://github.com/user-attachments/assets/c9553607-0e18-4ab6-845e-e74599703e7a)
 
 
+---
+
+## GUIDE (tutorial on how to make the gokart) -
+- [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
+- most details in the guide!
+
+
+## CAD (3d model of the gokart) - 
+- [cad](https://a360.co/43lIhdm)
+
+![image](https://github.com/user-attachments/assets/ab7aebe1-25c1-41ac-a766-6afc5724378b)
+![image](https://github.com/user-attachments/assets/2e172096-387b-4491-b798-bc400338af28)
+![image](https://github.com/user-attachments/assets/7ae0b8c9-1c10-4d2e-8531-664b1dd2a165)
+
+i have prior welding expirience:
+![image](https://github.com/user-attachments/assets/650b3076-6e30-460c-911f-2da147b555b0)
+
+
+
 ## BOM (bill of materials) -
 - [bom](https://docs.google.com/spreadsheets/d/1LPSlbtKpX_TeVwNVUrJRe5h6A8NwFC940OG_mSA_TPQ/edit?usp=sharing)
 
@@ -51,21 +70,3 @@ i will be using a 48v 12ah lifepo4 battery along with a brushed dc motor 1000w. 
 | steel rod                                 | 3000        | https://www.etsy.com/in-en/listing/1408721002/1-diameter-steel-rod-round-solid-rod?variation0=3277450657                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 600mm                                                                                      |
 | bms                                       | 1600        | https://quartzcomponents.com/products/daly-lifepo4-16s-48v-40a-waterproof-battery-management-system-bms-protection-board?variant=43654845530346&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic?utm_source=google&utm_medium=FreeListings&gad_source=1&gad_campaignid=20396578075&gbraid=0AAAAACPPFdNyKfm-9TbiMoAIKq3nCmlah&gclid=Cj0KCQjw0erBBhDTARIsAKO8iqQiF390o79MtME_RitSpqAb8EHut8btuFoHuICKs47q90ljyQOV1aEaAom1EALw_wcB | 1                                                                                          |
 | fuse                                      | 400         | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1                                                                                          |
----
-
-## GUIDE (tutorial on how to make the gokart) -
-- [guide](https://docs.google.com/presentation/d/1KLbMqiQlSO5LmJ1qEjIzW0HaYhiOfqkQMV1bJqHJmUQ/edit?usp=sharing)
-- most details in the guide!
-
-
-## CAD (3d model of the gokart) - 
-- [cad](https://a360.co/43lIhdm)
-
-![image](https://github.com/user-attachments/assets/ab7aebe1-25c1-41ac-a766-6afc5724378b)
-![image](https://github.com/user-attachments/assets/2e172096-387b-4491-b798-bc400338af28)
-![image](https://github.com/user-attachments/assets/7ae0b8c9-1c10-4d2e-8531-664b1dd2a165)
-
-i have prior welding expirience:
-![image](https://github.com/user-attachments/assets/650b3076-6e30-460c-911f-2da147b555b0)
-
-
