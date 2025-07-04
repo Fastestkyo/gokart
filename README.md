@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/28825649-af80-4aaa-a721-d62e14c98028)
 
-an electric gokart made entirely from scratch! this is an electric gokart which is 1.2m long and 500mm wide. it is kinda inspired by ninebot gokart pro. it will run on 48v and 1000w motor. this will take abt 376$. i wanted to build this because ive always loved gokarting.
+an electric gokart made entirely from scratch! this is an electric gokart which is 1.2m long and 500mm wide. it is kinda inspired by ninebot gokart pro. it will run on 48v and 1000w motor. this will take abt 376$. i wanted to build this because ive always loved gokarting.(btw the 3d model looks unfinished but it isnt cuz i cant find parts online)
 
 ---
 
