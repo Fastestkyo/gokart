@@ -26,7 +26,7 @@ the rear axle is simple, i will take a steel rod and then weld the weldable hub 
 
 ---
 
-i will be using a 48v 12ah lifepo4 battery along with a brushed dc motor 1000w. it will also be rechargable.
+i will be using a 48v 12ah lifepo4 battery along with a brushless dc motor 1000w. it will also be rechargable. it will last for approximately 30 mins at 1000w. It is going to last abt 25 kms. im gonna be using a yalu accelerator. check the guide for more info
 
 ![image](https://github.com/user-attachments/assets/12f13d8a-205f-41f1-809d-345ae465c790)
 ![image](https://github.com/user-attachments/assets/c9553607-0e18-4ab6-845e-e74599703e7a)
